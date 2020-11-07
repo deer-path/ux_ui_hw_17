@@ -1,0 +1,59 @@
+ .nav {
+    vertical-align: top;
+    background-color: #815D43;
+    text-align: left;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+
+.nav  li {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    background-color: #815D43;
+    padding: 10px 50px 10px 10px;
+    list-style-type: none;
+    margin: 1%;
+    font-family:"arial";
+    color: white;
+}
+
+.logo {
+    color:#815D43;
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+    padding: 100px;
+}
+
+.heroImg {
+    height: 600px;
+    background-image: url("/Users/haileyjamieson/Documents/00_MyCode/ux_ui_hw_17/overlay.png");
+}
+.content {
+    width: 500px;
+    margin: auto;
+}
+footer {
+    vertical-align: top;
+    background-color: #815D43;
+    text-align: left;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+}
+footer li {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    background-color: #815D43;
+    padding: 10px 50px 10px 10px;
+    list-style-type: none;
+    margin: 1%;
+    font-family:"arial";
+    color: white;
+}
+
+
+
